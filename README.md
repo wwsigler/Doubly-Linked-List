@@ -1,0 +1,1 @@
+This program is a doubly-linked list that will read a list of counties in the US from a csv file and add each to a linked list, then the linked list will use merge sort to sort the counties by population.
